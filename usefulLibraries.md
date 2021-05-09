@@ -38,6 +38,8 @@ This is a list of useful libraries I wish to learn.
 33. AutoViz
 34. Lux
 35. Datasette
+36. nbprocessing
+37. SweetViz
 
 ## Data Visualisation
 1. Seaborn
@@ -160,6 +162,7 @@ This is a list of useful libraries I wish to learn.
 
 ## Synthetic Data Creation
 1. Faker
+2. Synthetic Data Vault
 
 ## Excel Automation
 1. xlwings
@@ -183,4 +186,7 @@ This is a list of useful libraries I wish to learn.
 ## Python dictionaries
 1. Dataclasses
 2. Marshmallow
-3. desert
+3. Desert
+
+## Debugging
+1. Icecream

@@ -204,3 +204,4 @@ This is a list of useful libraries I wish to learn.
 ## Scientific
 1. Lambda
 2. Sympy
+3. PuLP

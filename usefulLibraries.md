@@ -40,6 +40,8 @@ This is a list of useful libraries I wish to learn.
 35. Datasette
 36. nbprocessing
 37. SweetViz
+38. Dora
+39. pretty pandas
 
 ## Data Visualisation
 1. Seaborn
@@ -190,3 +192,11 @@ This is a list of useful libraries I wish to learn.
 
 ## Debugging
 1. Icecream
+
+## PyInspect
+
+## Profillers
+1. Pyroscope
+
+## Scientific
+1, Lambda

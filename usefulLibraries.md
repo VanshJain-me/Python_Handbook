@@ -43,6 +43,7 @@ This is a list of useful libraries I wish to learn.
 38. Dora
 39. pretty pandas
 40. Pydantic
+41. pyod
 
 ## Data Visualisation
 1. Seaborn

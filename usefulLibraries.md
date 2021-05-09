@@ -178,6 +178,7 @@ This is a list of useful libraries I wish to learn.
 
 ## Quant finance
 1. Trafalgar
+2. Q-Fin
 
 ## Package creation
 1. BriefCase

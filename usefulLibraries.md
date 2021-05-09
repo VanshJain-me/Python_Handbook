@@ -53,6 +53,7 @@ This is a list of useful libraries I wish to learn.
 5. Bokeh
 6. HiPlot
 7. Uber H3
+8. Jaal(for networks)
 
 ## ML
 1. LightGBM

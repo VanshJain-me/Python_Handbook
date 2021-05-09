@@ -200,4 +200,5 @@ This is a list of useful libraries I wish to learn.
 1. Pyroscope
 
 ## Scientific
-1, Lambda
+1 Lambda
+2. Sympy

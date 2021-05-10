@@ -156,6 +156,8 @@ This is a list of useful libraries I wish to learn.
   c. pytest-cov
   d. pytest-socket
   e. pytest-timeout
+3. Robot
+4. Behave
 
 ## Code quality
 1. flake8
@@ -172,6 +174,7 @@ This is a list of useful libraries I wish to learn.
 
 ## Excel Automation
 1. xlwings
+2. openpyxl
 
 ## Automation
 1. Home assistant

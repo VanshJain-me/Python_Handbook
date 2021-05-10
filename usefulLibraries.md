@@ -197,6 +197,7 @@ This is a list of useful libraries I wish to learn.
 
 ## Debugging
 1. Icecream
+2. NoPDB
 
 ## PyInspect
 

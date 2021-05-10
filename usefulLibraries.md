@@ -50,6 +50,12 @@ This is a list of useful libraries I wish to learn.
 45. GenSim
 46. IPython Parallel
 
+## Data Cleaning and Manipulation
+1. ftfy
+2. janitor
+3. Optimus
+4. Great-Expectations
+
 ## Data Visualisation
 1. Seaborn
 2. Geoplotlib
@@ -207,7 +213,9 @@ This is a list of useful libraries I wish to learn.
 1. Icecream
 2. NoPDB
 
-## PyInspect
+## MISC
+1.PyInspect
+2. More-Itertools
 
 ## Profillers
 1. Pyroscope

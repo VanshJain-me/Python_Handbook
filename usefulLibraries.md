@@ -45,6 +45,9 @@ This is a list of useful libraries I wish to learn.
 40. Pydantic
 41. pyod
 42. cufflinks
+43. Blaze
+44. Orange
+45. GenSim
 
 ## Data Visualisation
 1. Seaborn
@@ -75,6 +78,7 @@ This is a list of useful libraries I wish to learn.
  10. PlaidML
  11. sklearn-pandas
  12. xgboost-autotune
+ 13. Theano
  
  
 ## ML Bias Detection
@@ -211,6 +215,7 @@ This is a list of useful libraries I wish to learn.
 1. Lambda
 2. Sympy
 3. PuLP
+4. Scipy
 
 
 ## logging
